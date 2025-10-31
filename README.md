@@ -25,3 +25,11 @@ cargo build
 ./target/debug/hello_world
 # Hello, world!
 ```
+
+
+# Chapter 3
+
+- using cargo to add dependencies
+```sh
+cargo add rand # this added rand dependencies (it's a library)
+```
